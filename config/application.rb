@@ -15,7 +15,7 @@ module RailsGuide
 
 
     # Set default locale to something other than :en
-    config.i18n.default_locale = :de
+    config.i18n.default_locale = :en
 
     # Please, add to the `ignore` list any other `lib` subdirectories that do
     # not contain `.rb` files, or that should not be reloaded or eager loaded.
